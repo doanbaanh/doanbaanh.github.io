@@ -1,7 +1,7 @@
 # Doan Ba Anh
 
-:round_pushpin: Ha Noi, VN  
-:computer: Remote or relocate
+📍 Ha Noi, VN  
+💻 Remote or relocate
 
 ## Fullstack Web Developer (Middle)
 
