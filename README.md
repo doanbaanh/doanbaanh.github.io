@@ -11,7 +11,7 @@
 **Telegram**: <https://t.me/doanbaanh>  
 **Languages**: Russian, Vietnamese, English (A2)
 
-## Stack of technologioes
+## Stack of technologies
 - Linux Server
 - PHP (Symfony, Laravel)
 - JS/TS (NodeJS, VueJS/NuxtJS, PhaserJS)
