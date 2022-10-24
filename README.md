@@ -24,6 +24,7 @@
 ## Work experience
 
 ### Web Developer at SM&Partners
+
 #### May 2021 – Present
 - Full time backend developer (frontend if needed too)
 - Working with external and internal API
@@ -35,6 +36,7 @@
 - Used technologies: Symfony 3/4/5/6, Laravel 7, Vue 2/3, RabbitMQ, Docker, Kubernetes, HELM, Yandex.Cloud
 
 ### Web Developer at ZENBOX
+
 #### Jul 2019 – May 2021
 - Developed website for ecommerce
 - Developed CRM and automatization
@@ -42,8 +44,10 @@
 - Used technologies: Laravel 7, Vue/Nuxt 2, Google Tags
 
 ### Web Developer at GE STORE
+
 #### May 2021 – Present
 - Technical support
+
 #### Aug 2013 – May 2021
 - Developed website for ecommerce and service
 - Developed CRM and automatization
