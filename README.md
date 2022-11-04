@@ -41,7 +41,7 @@
 - Developed website for ecommerce
 - Developed CRM and automatization
 - Marketing platform integration (Google, Yandex, Facebook, Avito)
-- Used technologies: Laravel 7, Vue/Nuxt 2, Google Tags
+- Used technologies: Laravel 7, Vue/Nuxt 2
 
 ### Web Developer at GE STORE
 
@@ -53,16 +53,10 @@
 - Developed CRM and automatization
 - Developed PBX and ERP/CRM integration
 - Marketing platform integration (Google, Yandex, Facebook, VK, Roistat)
-- Used technologies: Laravel 5+, Vue 2, FreeSwitch, Asterisk, Google Tags
+- Used technologies: Laravel 5+, Vue 2, FreeSwitch, Asterisk
 
 ## Education
 
 ### Ufa State Aviation Technical University
 **Sep 2012 – Jul 2016**  
 Business Informatics (BI)
-
-## Interests
-- Drums
-- Skiing
-- Surfing
-- Camping
