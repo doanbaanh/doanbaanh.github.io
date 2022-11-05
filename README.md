@@ -60,3 +60,12 @@
 ### Ufa State Aviation Technical University
 **Sep 2012 – Jul 2016**  
 Business Informatics (BI)
+
+## About me
+- Responsibility
+- Eager to learn
+- Critical thinking
+- Attention to detail
+- Ability to work efficiently both individually
+and in a team
+- Self-Motivation
